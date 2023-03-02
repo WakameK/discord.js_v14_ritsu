@@ -1,5 +1,5 @@
 module.exports = {
-    clientId: "BotのID",
+    clientId: "",                       //BotのID
     color: "#2f3136",
     token: process.env.BOT_TOKEN,                       
     dev: {
